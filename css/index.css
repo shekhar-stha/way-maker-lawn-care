@@ -88,7 +88,7 @@
 
   /* Footer */
   --footer-section-background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.8603816526610644) 33%, rgba(0, 0, 0, 0.8547794117647058) 65%, rgba(0, 0, 0, 0.8295693277310925) 84%);
-  --footer-headline-color: var(--secondary);
+  --footer-headline-color: var(--primary);
   --footer-section-text-color: var(--white);
   --footer-section-ahref-color: var(--white);
   --footer-section-ahref-hover-color: var(--white);
@@ -815,10 +815,6 @@ nav .navbar-nav .nav-link:hover {
   align-items: center;
   flex-direction: column;
   transition: all 0.5s;
-}
-
-.ratings-div .ratings-grid .ratings-card:hover {
-  background-color: var(--white);
 }
 
 .ratings-div .ratings-grid .ratings-card img {
