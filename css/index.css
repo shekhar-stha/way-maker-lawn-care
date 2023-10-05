@@ -1084,7 +1084,7 @@ nav .navbar-nav .nav-link:hover {
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
   border-radius: 12px;
   background-color: var(--white);
-  min-height: 320px;
+  min-height: 370px;
 }
 
 .testimonials .testimonial-slider .column .quote {
