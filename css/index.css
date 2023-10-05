@@ -707,7 +707,7 @@ nav .navbar-nav .nav-link:hover {
   text-transform: capitalize;
   color: var(--hero-heading-color);
   padding: 0 2rem;
-  text-shadow: 0 0 8px var(--dark);
+  text-shadow: 2px 2px 8px rgb(18, 53, 17);
   font-weight: var(--hero-font-weight);
   font-size: var(--hero-font-size);
   line-height: 60px;
